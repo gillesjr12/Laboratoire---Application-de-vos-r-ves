@@ -1,0 +1,15 @@
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.csproj.AssemblyReference.cache
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.AssemblyInfo.cs
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\bin\Debug\net6.0\CandyMachine.exe
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\bin\Debug\net6.0\CandyMachine.deps.json
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\bin\Debug\net6.0\CandyMachine.runtimeconfig.json
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\bin\Debug\net6.0\CandyMachine.dll
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\bin\Debug\net6.0\ref\CandyMachine.dll
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\bin\Debug\net6.0\CandyMachine.pdb
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.dll
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\ref\CandyMachine.dll
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.pdb
+C:\Users\James\Desktop\École\Devoir\Programmation\Github\CandyMachine\CandyMachine\obj\Debug\net6.0\CandyMachine.genruntimeconfig.cache
